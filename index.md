@@ -5,7 +5,8 @@ layout: page
 ### 个人介绍 Introduction
 
 
-  <img src="blogs/web.assets/LinRuidong.jpg" class="floatpic" width="450" height="600" alt="来个生活比个耶">
+  <!-- <img src="blogs/web.assets/LinRuidong.jpg" class="floatpic" width="450" height="600" alt="来个生活比个耶"> -->
+  <img src="/blogs/web.assets/LinRuidong.jpg" style="width: 450px; height: 600px;" alt="图片描述">
 
 <br>我是 **林锐东 （Ruidong Lin）**.
 <br>我就读于**中国矿业大学（北京）（CUMTB）**，本科专业是**电气工程及其自动化**，前五学期专业课程加权均分85.1/100
