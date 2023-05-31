@@ -4,42 +4,50 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships
+## 学科专业竞赛 Competitions
 
-- May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022: Best Student Project Award of Maynooth (€100)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.
+### 国家级（4项一等奖/最高级，2项二等奖，2项三等奖）
 
-## Competitions
+- 2021.08：第十四届全国大学生节能减排社会实践与科技竞赛**全国三等奖**（主力队员）
+- 2021.09：第十六届全国大学生智能汽车竞赛讯飞组**全国一等奖（第一完成人）**  
+中国矿业大学（北京）参赛以来，该赛事首个国家级最高奖！
+- 2021.12：第二十三届中国机器人及人工智能大赛智能分拣挑战赛**全国一等奖（第一完成人，全国第一名）** 
+- 2022.08：第十五届全国大学生节能减排社会实践与科技竞赛**全国三等奖（第一完成人）**
+- 2022.09：第十七届全国大学生智能汽车竞赛讯飞组**全国一等奖（第一完成人，全国第四名，我校历史最好成绩）**
+- 2022.09：第二十四届中国机器人及人工智能大赛智能分拣挑战赛**全国一等奖（第一完成人，全国第一名）**
+- 2022.09：第十七届全国大学生智能汽车竞赛智能视觉组**全国二等奖**（主力队员）
+- 2022.12： 第十七届全国大学生智能汽车竞赛室外ROS无人车竞速组**全国二等奖**（主力队员）
 
-- May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- May 2023：Third Prize in Milan Design Week China Design Exhibition (powered by my girlfriend)
-- Dec 2022：**First Prize** (Fujian Competition Area) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
-- May 2022：Third Prize (Short Videos Group) in China National College Student New Media Competition
+### 省部级，校级（3项）（不包含已获国家级奖项的比赛）
+- 2022.04：2022年“挑战杯”大学生创业计划竞赛优秀奖 **（第一完成人）**
+- 2022.08：第四届北京市大学生节能节水低碳减排社会实践与科技竞赛**二等奖（第一完成人）**
+- 2023.05：“青创北京”2023年“挑战杯”首都大学生课外学术科技作品竞赛**三等奖（第二完成人，技术负责人）**
+- 2023.04：中国矿业大学（北京）挑战杯大学生课外学术科技作品竞赛**特等奖（第二完成人，技术负责人）**
 
-## Honors
+## 奖学金 Scholarships
 
-- May 2023：Outstanding Student Leaders of Fuzhou University
-- Sep 2022：Nomination for China National Scholarship (3/1200)
-- June 2022：Nomination for China Telecom Scholarship (1/900)
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- May 2021：Merit Student of Fuzhou University
-- April 2021：Outstanding volunteer at 4th Digital China Summit
+- 2021.10：中国矿业大学（北京）校级优秀学生**二等奖学金**
+- 2022.10：中国矿业大学（北京）校级优秀学生**三等奖学金**
 
-## Services
+## 荣誉 Honors
 
-- Sep 2022 - Sep 2023：IEEE Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee, Fuzhou University
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College, Fuzhou University
+- May 2023：中国矿业大学（北京）2022年大学生暑期社会实践**先进个人**
 
-Lastest Update: 21th May 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/awards-zh/)
+## 证书展示 Certificates
+![个人获奖证明_1](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_1.jpg)
+![个人获奖证明_2](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_2.jpg)
+![个人获奖证明_3](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_3.jpg)
+![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_4.jpg)
+![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_6.jpg)
+![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_7.jpg)
+![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_8.jpg)
+![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_9.jpg)
+![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_10.jpg)
+![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_11.jpg)
+![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_12.jpg)
+![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_13.jpg)
+![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_14.jpg)
+![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_15.jpg)
+
+Lastest Update: 2023.06.01
+ <!-- &nbsp; [中文 (Chinese Version)](https://caihanlin.com/awards-zh/) -->
