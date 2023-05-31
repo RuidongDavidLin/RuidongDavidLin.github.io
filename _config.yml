@@ -1,12 +1,12 @@
-title: Hanlin Cai
+title: 林锐东
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://ruidongdavidlin.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
+  name: 林锐东
   avatar: hanlin.jpg
 #  bio:
   email: hanlin.cai@ieee.org
@@ -15,7 +15,7 @@ owner:
   # facebook: caihanlin2002
   github: GuangLun2000
   linkedin: hanlin-cai-07b53b23b
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
