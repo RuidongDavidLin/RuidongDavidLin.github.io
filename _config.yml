@@ -36,12 +36,12 @@ owner:
 links:
   - title: About Me 个人简述
     url: /
-  - title: Publications 发表
-    url: /publications/
   - title: Projects 项目经历
     url: /projects/
   - title: Awards 获奖
     url: /awards/
+  - title: Publications 发表
+    url: /publications/
   # - title: Hobbies
   #   url: /hobbies/
   # - title: Blogs
