@@ -2,25 +2,20 @@
 layout: page
 ---
 
-# About Me
+# 个人介绍 About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="blogs/web.assets/LinRuidong.jpg" class="floatpic" width="360" height="480">
 
-Here is **林锐东 （Ruidong Lin）**.
+<!-- <br>![image-20230427104320952](/blogs/web.assets/image-20230427104320952.png) -->
 
-I am a junior majoring in **Automation** at Fuzhou University (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+我是 **林锐东 （Ruidong Lin）**.
+我就读于**中国矿业大学（北京）**，本科专业是**电气工程及其自动化**，前五学习专业课程加权均分85.1/100
+**在全国大学生智能汽车竞赛、全国大学生节能减排社会实践与科技竞赛等各类专业竞赛中获国家级最高级奖项4项（均为第一完成人）**，**国家级二等奖2项**，**国家级三等奖3项**
+这是我的[个人简历]()
 
-## Research Interests
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+## 研究兴趣 Research Interests 
+- **功率预测（光伏/负荷）(Photovoltaic Power/Load Forecasting)**
+- **需求响应（Demand Response Management）**
+- **机器学习在电力系统中的应用（Appliance of Machine Learing in Power System）**
 
-## News and Updates
-
-- **<font color='red'>[News]</font> I am actively searching for a PhD program!**
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
