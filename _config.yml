@@ -9,12 +9,13 @@ owner:
   name: 林锐东
   avatar: ruidong.jpg
 #  bio:
-  Gmail: ruidong.david.lin@gamil.com
-  QQmail: 814099377@qq.com
+  email: ruidong.david.lin@gamil.com
+  # QQmail: 814099377@qq.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # facebook: caihanlin2002
   github: RuidongDavidLin
+  phone: 13313977788
   # linkedin: hanlin-cai-07b53b23b
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # instagram: lancecai2002
@@ -33,7 +34,7 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: About Me 个人简述
     url: /
   - title: Publications 发表
     url: /publications/
