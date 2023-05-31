@@ -6,7 +6,7 @@ layout: page
 
 
   <!-- <img src="blogs/web.assets/LinRuidong.jpg" class="floatpic" width="450" height="600" alt="来个生活比个耶"> -->
-  <img src="/blogs/web.assets/LinRuidong.jpg" style="width: 450px; height: 600px;" alt="图片描述">
+  <img src="/blogs/web.assets/LinRuidong.jpg" style="width: 600px; height: 800px;" alt="图片描述">
 
 <br>我是 **林锐东 （Ruidong Lin）**.
 <br>我就读于**中国矿业大学（北京）（CUMTB）**，本科专业是**电气工程及其自动化**，前五学期专业课程加权均分85.1/100
@@ -14,8 +14,6 @@ layout: page
 <br>编程能力: **主力语言Python,熟练掌握利用Pytorch构建机器学习神经网络**，熟悉Matlab、C语言
 <br>**在全国大学生智能汽车竞赛、全国大学生节能减排社会实践与科技竞赛等各类专业竞赛中获国家级最高级奖项4项（均为第一完成人）**，**国家级二等奖2项**，**国家级三等奖3项**
 <br>这是我的[个人简历]()
-
-### 
 
 ### 研究兴趣 Research Interests 
 - **功率预测（光伏/负荷）(Photovoltaic Power/Load Forecasting)**
