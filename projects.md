@@ -8,51 +8,36 @@ title: Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+#### 自由研究课题《基于自适应图神经网络的分布式光伏功率数据的数据清洗》
+- 为了在缺少分布式光伏站点的历史气象数据的情况下对分布式站点的历史光伏功率数据进行数据清洗，提升数据集的数据质量，本课题探索了一种基于能够自适应学习图结构的图卷积神经网络(Adaptive Graph Convolutional Neural Networks, AGCN)的数据清洗模型，利用分布式光伏功率数据之间的时空关联特性进行数据修复，提升了数据清洗的准确度
+- 主要工作：（1）利用Pytorch独立构建自适应图神经网络(AGCN)（2）完成比较实验中benchmark方法的实现（3）完成论文地撰写，包括数据分析、图表分析等
 
-<center>
-<img src="/images/resnet-ahp.png">
-</center>
-<br>
+#### 大创课题《基于区块链技术的城市智能电网模型的设计与实现》
+- 项目内容：基于区块链加密技术，以仿真的形式构建居民用户与需求响应聚合商的需求响应能力交易平台,构建了一套基于激励的需求响应交易市场机制，同时平台能够实现居民用户群体日前负荷预测，为电网的日前调度规划提供参考依据
+- 负责工作：(1)查阅调查相关领域前沿文献，完成整个课题模型的构思 (2)构建以IBM Hyper ledger Fabric为基础框架的区块链平台 (3)实现仿真条件下的居民负荷基线估计 (4)构建以长短时记忆神经网络(LSTM)为基础的短期居民日前负荷预测
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
 
-<center>
-<img src="/images/MCM-figure3.jpg">
-</center>
-<br>
+#### 全国大学生智能汽车竞赛讯飞组
+- 项目内容：在搭载激光雷达等传感器的无人驾驶车上实现机器人定位、自动驾驶、自动避障、目标检测、智能语音交互等功能，并完成赛项规定任务
+- 负责工作：完成整体任务思路构建，协调团队内部工作。实现机器人SLAM环境构建算法、自动驾驶与导航算法、机器人自主定位算法、目标检测算法与车辆运动控制算法的构建与优化
+- 项目成果：国家级竞赛一等奖两项（其中一项全国第四名）同时于Github（全球最大的开源社区）平台开源本队伍参赛代码框架(https://github.com/RuidongDavidLin/CUMTB-2022-Opensource)目前收获21个star，8个fork，在同平台同类代码中处于领先水平
 
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
+#### 中国机器人及人工智能大赛智能分拣挑战赛
+- 项目内容：在实现无人驾驶车的各项基本功能的基础上，完成无人车与智能机械臂之间的多机通讯，共同协同实现物品的智能识别与搬运
+- 负责工作：完成机器人自动与导航驾驶算法、机器人自主定位算法、目标检测算法与车辆运动控制算法的构建与优化。同时设计实现机器人与机械臂的局域网通信与协调调度配合
+- 项目成果：国家级竞赛一等奖两项（两项一等奖均为全国第一名，该比赛被央视新闻于2021年12月报道）
 
-<center>
-<img src="/images/openiot-system.png">
-</center>
+#### 全国大学生智能汽车竞赛智能视觉组
+- 项目内容：在智能车上完成卡片分类、最优路径规划以及高精度定位等工作
+- 负责工作：完成基于EKF（拓展卡尔曼滤波）的多传感器融合定位算法
+- 项目成果：国家级竞赛二等奖一项
 
-<br>
+#### 《基于光伏微电网的ROS智能垃圾分类回收机器人》
+- 项目内容：以ROS为框架，构建能够实现无人驾驶的小型垃圾分类回收机器人，同时构建微型光伏发电系统，为机器人提供电力来源
+- 负责工作：完成团队整体思路的构建，协调团队内部工作。完成机器人软件层面无人驾驶算法、机器人自主定位算法、垃圾目标检测算法与机械臂的控制算法的构建。同时担任比赛现场的汇报演讲人
+- 项目成果：国家级竞赛三等奖一项，北京市竞赛二等奖一项，校级竞赛特等奖
 
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
-
-<center>
-<img src="/images/iot-manager.png">
-</center>
-<br>
-
-<br>
-
----
-
-# Open-source Projects
-
-<br>
-
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
-
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
-
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
-
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
-
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
+#### 《一种低成本的垃圾分类指导与监督系统》
+- 项目内容：在低成本边缘计算设备Jetson Nano(2GB)上构建YoloV5目标检测算法，同时结合摄像头与语音播报系统，对行人投放的街头垃圾进行垃圾的分类与指导
+- 负责工作：完成目标检测算法在边缘计算设备上的部署工作，采集与标定垃圾分类数据集，完成目标检测神经网络的训练与优化
+- 项目成果：国家级三等奖一项
