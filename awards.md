@@ -34,20 +34,20 @@ title: Awards
 - May 2023：中国矿业大学（北京）2022年大学生暑期社会实践**先进个人**
 
 ## 证书展示 Certificates
-![个人获奖证明_1](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_1.jpg)
-![个人获奖证明_2](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_2.jpg)
-![个人获奖证明_3](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_3.jpg)
-![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_4.jpg)
-![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_6.jpg)
-![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_7.jpg)
-![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_8.jpg)
-![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_9.jpg)
-![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_10.jpg)
-![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_11.jpg)
-![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_12.jpg)
-![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_13.jpg)
-![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_14.jpg)
-![个人获奖证明_4](images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_15.jpg)
+![个人获奖证明_1](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_1.jpg)
+![个人获奖证明_2](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_2.jpg)
+![个人获奖证明_3](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_3.jpg)
+![个人获奖证明_4](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_4.jpg)
+![个人获奖证明_4](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_6.jpg)
+![个人获奖证明_4](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_7.jpg)
+![个人获奖证明_4](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_8.jpg)
+![个人获奖证明_4](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_9.jpg)
+![个人获奖证明_4](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_10.jpg)
+![个人获奖证明_4](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_11.jpg)
+![个人获奖证明_4](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_12.jpg)
+![个人获奖证明_4](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_13.jpg)
+![个人获奖证明_4](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_14.jpg)
+![个人获奖证明_4](/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_15.jpg)
 
 Lastest Update: 2023.06.01
  <!-- &nbsp; [中文 (Chinese Version)](https://caihanlin.com/awards-zh/) -->
