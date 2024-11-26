@@ -21,24 +21,17 @@ Department of EEE项目
 <br>英语水平 **CET-6:519分**
 **IELTS:6.5分（2024年3月成绩）** 
 
-<br>编程能力: **掌握Python,
-具备利用Pytorch构建复杂深度学习
-算法的能力**，掌握Matlab并具备
-利用CVX构建复杂优化模型的能力
+<br>编程能力: **掌握Python,具备利用Pytorch构建复杂深度学习算法的能力**，掌握Matlab并具备利用CVX构建复杂优化模型的能力
 
-<br>**在全国大学生智能汽车竞赛、
-全国大学生节能减排社会实践与科技
-竞赛等各类专业竞赛中获国家级最高
-级奖项4项（均为第一完成人）**
-**国家级二等奖2项**
-**国家级三等奖2项**
+<br>**在全国大学生智能汽车竞赛、全国大学生节能减排社会实践与科技竞赛等各类专业竞赛中获国家级最高级奖项5项（4项为第一完成人）****国家级二等奖4项****国家级三等奖2项**
 
 <br>这是我的[个人简历]()
 
 ### 研究兴趣 Research Interests 
-- **功率预测（光伏/负荷）(Photovoltaic Power/Load Forecasting)**
-- **需求响应（Demand Response Management）**
-- **机器学习在电力系统中的应用（Appliance of Machine Learing in Power System）**
+- **功率预测 (光伏/负荷)(Photovoltaic Power/Load Forecasting)**
+- **需求响应 (Demand Response Management)**
+- **电力市场 (Electricity Market)**
+- **智慧能源 (AI4Energy)**
 
 ### 联系方式 Contact information
 
