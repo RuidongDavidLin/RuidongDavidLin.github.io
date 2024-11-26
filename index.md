@@ -5,7 +5,7 @@ layout: page
 ### 个人介绍 Introduction
 
 
-<img src="/images/LinRuidong.jpg" class="floatpic" width="300" height="400" alt="来个生活比个耶">
+<img src="/images/LinRuidong2.jpg" class="floatpic" width="300" height="400" alt="来个生活比个耶">
   <!-- <img src="/blogs/web.assets/LinRuidong.jpg" style="width: 300px; height: 400px;" alt="图片描述"> -->
 <!-- ![个人获奖证明_1](src="/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_1.jpg") -->
 
