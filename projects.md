@@ -6,14 +6,8 @@ title: Projects
 
 # Research Projects
 
-##### 自由研究课题《基于自适应图神经网络的分布式光伏功率数据的数据清洗》
-- 为了在缺少分布式光伏站点的历史气象数据的情况下对分布式站点的历史光伏功率数据进行数据清洗，提升数据集的数据质量，本课题探索了一种基于能够自适应学习图结构的图卷积神经网络(Adaptive Graph Convolutional Neural Networks, AGCN)的数据清洗模型，利用分布式光伏功率数据之间的时空关联特性进行数据修复，提升了数据清洗的准确度
-- 主要工作：（1）利用Pytorch独立构建自适应图神经网络(AGCN)（2）完成比较实验中benchmark方法的实现（3）完成论文地撰写，包括数据分析、图表分析等
-
-##### 大创课题《基于区块链技术的城市智能电网模型的设计与实现》
-- 项目内容：基于区块链加密技术，以仿真的形式构建居民用户与需求响应聚合商的需求响应能力交易平台,构建了一套基于激励的需求响应交易市场机制，同时平台能够实现居民用户群体日前负荷预测，为电网的日前调度规划提供参考依据
-- 负责工作：(1)查阅调查相关领域前沿文献，完成整个课题模型的构思 (2)构建以IBM Hyper ledger Fabric为基础框架的区块链平台 (3)实现仿真条件下的居民负荷基线估计 (4)构建以长短时记忆神经网络(LSTM)为基础的短期居民日前负荷预测
-
+##### Research Cooperated with Prof. Kangping Li@SJTU 《A Distributed PV Power Data Cleaning Method: Based on Spatiotemporal Fusion Graph Convolutional Neural Network》 
+- High-quality distributed photovoltaic (PV) power data is crucial for tasks such as forecasting, planning, dispatching, and trading within distributed PV power systems. Unlike centralized PV systems, distributed installations present unique challenges due to their vast number and the inherent difficulty of monitoring and maintenance, which often results in compromised data quality. Consequently, effective data cleaning methods are essential to enhance data reliability. Existing methods for distributed PV power data cleaning typically rely solely on either temporal or spatial correlations, without fully utilizing the intrinsic spatiotemporal correlation characteristics, thereby limiting their effectiveness. To overcome these limitations, this paper proposes a spatiotemporal fusion graph convolutional neural network (STFGCN) for distributed PV power data cleaning. This approach incorporates a spatiotemporal fusion modeling strategy, specifically tailored to capture the unique characteristics of distributed PV systems. Furthermore, the proposed framework integrates a novel data-driven adjacency matrix learning approach and a post-cleaning validation mechanism to enhance its performance. The effectiveness of the proposed method is demonstrated using real-world distributed PV output data, showcasing its superiority across different levels of data anomalies and under diverse weather conditions.
 
 ##### 全国大学生智能汽车竞赛讯飞组
 - 项目内容：在搭载激光雷达等传感器的无人驾驶车上实现机器人定位、自动驾驶、自动避障、目标检测、智能语音交互等功能，并完成赛项规定任务
@@ -29,11 +23,6 @@ title: Projects
 - 项目内容：在智能车上完成卡片分类、最优路径规划以及高精度定位等工作
 - 负责工作：完成基于EKF（拓展卡尔曼滤波）的多传感器融合定位算法
 - 项目成果：国家级竞赛二等奖一项
-
-##### 《基于光伏微电网的ROS智能垃圾分类回收机器人》
-- 项目内容：以ROS为框架，构建能够实现无人驾驶的小型垃圾分类回收机器人，同时构建微型光伏发电系统，为机器人提供电力来源
-- 负责工作：完成团队整体思路的构建，协调团队内部工作。完成机器人软件层面无人驾驶算法、机器人自主定位算法、垃圾目标检测算法与机械臂的控制算法的构建。同时担任比赛现场的汇报演讲人
-- 项目成果：国家级竞赛三等奖一项，北京市竞赛二等奖一项，校级竞赛特等奖
 
 ##### 《一种低成本的垃圾分类指导与监督系统》
 - 项目内容：在低成本边缘计算设备Jetson Nano(2GB)上构建YoloV5目标检测算法，同时结合摄像头与语音播报系统，对行人投放的街头垃圾进行垃圾的分类与指导
