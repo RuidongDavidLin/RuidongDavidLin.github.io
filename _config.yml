@@ -1,20 +1,20 @@
-title: 林锐东
+title: 林锐东 LIN Ruidong
 # tagline: Two roads diverged in woods, I took the one less traveled by.
-description: 不响，不响！
 #Comment out url when working locally to resolve base urls correctly
 url: https://ruidongdavidlin.github.io
 
 # Owner/author information
 owner:
-  name: 林锐东
+  name: 林锐东 LIN Ruidong
   avatar: ruidong2.jpg
 #  bio:
   gmail: ruidong.david.lin@gamil.com
-  qqmail: 814099377@qq.com
+  mail: linrd@connect.hku.hk
+  Wechat: LINRDEE
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # facebook: caihanlin2002
-  github: RuidongDavidLin
+  github: https://github.com/RuidongDavidLin
   # phone: 13313977788
   # linkedin: hanlin-cai-07b53b23b
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
@@ -36,6 +36,8 @@ owner:
 links:
   - title: About Me 个人简述
     url: /
+  # - tiele: About Me (Chinese)
+  #   url: /chinese/
   - title: Projects 项目经历
     url: /projects/
   - title: Awards 获奖

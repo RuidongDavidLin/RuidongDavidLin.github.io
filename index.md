@@ -1,16 +1,20 @@
 ---
 layout: page
+title: "About Me"       # 页面 <title>，同时会在导航中显示
+permalink: /            # 设为根路径；若主页另有用途可更换
+lang: zh
+description: "林锐东 (LIN Ruidong)"
 ---
 
-### 个人介绍 Introduction
+### 个人介绍 / Introduction
 
-
-<img src="/images/LinRuidong2.jpg" class="floatpic" width="300" height="400" alt="来个生活比个耶">
+<figure class="floatpic">
+<img src="/images/LinRuidong2025.jpg" class="floatpic" width="288.4" height="350.2" alt="真的找不到合适的近照了">
+</figure>
   <!-- <img src="/blogs/web.assets/LinRuidong.jpg" style="width: 300px; height: 400px;" alt="图片描述"> -->
-<!-- ![个人获奖证明_1](src="/images/%E4%B8%AA%E4%BA%BA%E8%8E%B7%E5%A5%96%E8%AF%81%E6%98%8E_1.jpg") -->
 
 
-<br>我是 **林锐东 （Ruidong Lin）**
+<br>我是林锐东LIN Ruidong
 
 <br>本科就读于**中国矿业大学（北京）**本科专业是**电气工程及其自动化**本科课程加权均分**87.86/100**
 目前就读于HKU Master of Science in Electronic and Electrical Engineering
@@ -33,7 +37,7 @@ layout: page
 ### 联系方式 Contact information
 
 <br>Gmail: ruidong.david.lin@gmail.com
-<br>QQmail: 814099377@qq.com
+<br>
 <br>Wechat: 13313977788
 <br>TEL: 13313977788
 
