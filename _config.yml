@@ -40,10 +40,10 @@ links:
   #   url: /chinese/
   - title: Projects 项目经历
     url: /projects/
-  - title: Awards 获奖
-    url: /awards/
-  - title: Publications 发表
-    url: /publications/
+  # - title: Awards 获奖
+  #   url: /awards/
+  # - title: Publications 发表
+  #   url: /publications/
   # - title: Hobbies
   #   url: /hobbies/
   # - title: Blogs

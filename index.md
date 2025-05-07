@@ -26,8 +26,24 @@ description: "林锐东 (LIN Ruidong)"
 
 **研究方向 / Research Interests** 
 - **智慧能源 / *AI in Energy***
+  <img
+    src="/images/PaperFig/OTL.png"
+    alt="OTL"
+    style="display:block; width:30%; height:auto; margin:1rem auto;"
+    />
 - **电力市场 / *Electricity Market***
+  <img
+    src="/images/PaperFig/Price_Quantity.png"
+    alt="PQ"
+    style="display:block; width:30%; height:auto; margin:1rem auto;"
+    />
+
 - **光伏功率/负荷预测 / *Photovoltaic Power/Load Forecasting***
+  <img
+    src="/images/PaperFig/PV Correlations.png"
+    alt="PV"
+    style="display:block; width:30%; height:auto; margin:1rem auto;"
+    />
 - **需求响应 / *Demand Response Management***
 
 <!-- <br>这是我的[个人简历]() -->
