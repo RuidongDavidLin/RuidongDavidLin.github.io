@@ -34,7 +34,7 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me 个人简述
+  - title: About Me 个人简介
     url: /
   # - tiele: About Me (Chinese)
   #   url: /chinese/

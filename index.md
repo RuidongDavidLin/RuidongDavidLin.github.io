@@ -22,6 +22,10 @@ description: "林锐东 (LIN Ruidong)"
   - GPA:87.86/100
 - **Language Level**：IELTS 6.5
 - **Skills**: Python including **Pytorch** / Matlab including **CVX, Gurobi**, and Matpower
+- **Public Repository**:
+  - [GitHub Repository: Price-Taker Offering Strategy in Electricity Pay-as-Bid Markets (Python+CVX+Gurobi)](https://github.com/RuidongDavidLin/Price-Taker_Offering_Strategy_in_Electricity_Pay-as-Bid_Markets)
+  - [GitHub Repository : TimesXer for Load Forecasting (Python+PyTorch)](https://github.com/RuidongDavidLin/Load-Forecasting-Open-Source)
+  - [GitHub Repository: Energy Hub Planning (Matlab+CVX+Gurobi)](https://github.com/RuidongDavidLin/Energy-Hub-Planning)
 
 
 **研究方向 / Research Interests** 
@@ -29,20 +33,20 @@ description: "林锐东 (LIN Ruidong)"
   <img
     src="/images/PaperFig/OTL.png"
     alt="OTL"
-    style="display:block; width:30%; height:auto; margin:1rem auto;"
+    style="display:block; width:60%; height:auto; margin:1rem 0;"
     />
 - **电力市场 / *Electricity Market***
   <img
     src="/images/PaperFig/Price_Quantity.png"
     alt="PQ"
-    style="display:block; width:30%; height:auto; margin:1rem auto;"
+    style="display:block; width:60%; height:auto; margin:1rem 0;"
     />
 
 - **光伏功率/负荷预测 / *Photovoltaic Power/Load Forecasting***
   <img
     src="/images/PaperFig/PV Correlations.png"
     alt="PV"
-    style="display:block; width:30%; height:auto; margin:1rem auto;"
+    style="display:block; width:60%; height:auto; margin:1rem 0;"
     />
 - **需求响应 / *Demand Response Management***
 
