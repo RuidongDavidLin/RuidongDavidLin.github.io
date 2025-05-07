@@ -8,10 +8,12 @@ title: Projects
 
 - Research Cooperated with Prof. Kangping Li@SJTU 《Meteorological-implicit Graph Learning-based Distributed PV Data Cleaning Framework》 (Submitted)
     - Distributed PV installations suffer serious data degradation and lack of site‑specific meteorological references which is usually necessary for PV data cleaning. We propose MiGL, a meteorological‑implicit graph‑learning framework that jointly captures spatial and temporal dependencies via a data-driven learned adjacency matrix—eliminating explicit priors—and validate its superior cleaning performance on real data from 69 PV sites.
-![GCN](/images/PaperFig/GCN.png)
-<!-- <figure class="floatpic">
-<img src="/images/PaperFig/GCN.png" class="floatpic" width="2783" height="950" alt="GCN">
-</figure> -->
+<img
+  src="/images/PaperFig/GCN.png"
+  alt="GCN"
+  style="display:block; width:100%; height:auto; margin:1rem auto;"
+>
+<!-- ![GCN](/images/PaperFig/GCN.png) -->
 
 <!-- ##### 全国大学生智能汽车竞赛讯飞组
 - 项目内容：在搭载激光雷达等传感器的无人驾驶车上实现机器人定位、自动驾驶、自动避障、目标检测、智能语音交互等功能，并完成赛项规定任务
