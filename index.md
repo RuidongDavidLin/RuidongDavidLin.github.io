@@ -14,16 +14,15 @@ description: "林锐东 (LIN Ruidong)"
 
 
 **林锐东 LIN Ruidong**
-- **硕士（在读）**：电机电子工程，香港大学
 - **Master (Current)**: *Master of Science in Electronic and Electrical Engineering, HKU/The University of Hong Kong, HK, China*
+- **硕士（在读）**：电机电子工程，香港大学
   - GPA:3.75/4
+- **Bachelor**: *Electrical Engineering and Automation, China University of Mining&Technology-Beijing，China*
 - **本科**：电气工程及其自动化，中国矿业大学（北京）
-- **Bachelor**: *Electrical Engineering and Automation, China University of Mining&Technology, Beijing，China*
   - GPA:87.86/100
 - **Language Level**：IELTS 6.5
+- **Skills**: Python including **Pytorch** / Matlab including **CVX, Gurobi**, and Matpower
 
-**技能**： *Python including Pytorch / Matlab including CVX, Gurobi, Matpower*
-**Skills**: *Python including Pytorch / Matlab including CVX, Gurobi, Matpower*
 
 **研究方向 / Research Interests** 
 - **智慧能源 / *AI in Energy***
@@ -32,13 +31,8 @@ description: "林锐东 (LIN Ruidong)"
 - **需求响应 / *Demand Response Management***
 
 <!-- <br>这是我的[个人简历]() -->
-
-
-
-### 联系方式 Contact information
-
-<br>Mail: linrd@connect.hku.hk
-<br>Gmail: ruidong.david.lin@gmail.com
-<br>Wechat ID: LINRDEE
+**联系方式 Contact information**
+- Mail: linrd@connect.hku.hk
+- Wechat ID: LINRDEE
 <!-- 
 <br>**在全国大学生智能汽车竞赛、全国大学生节能减排社会实践与科技竞赛等各类专业竞赛中获国家级最高级奖项5项（4项为第一完成人）****国家级二等奖4项****国家级三等奖2项** -->
