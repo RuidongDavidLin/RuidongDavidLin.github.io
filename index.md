@@ -48,6 +48,16 @@ description: "林锐东 (LIN Ruidong)"
     style="display:block; width:60%; height:auto; margin:1rem 0;"
     />
 - **需求响应 / *Demand Response Management***
+  <img
+    src="/images/PaperFig/FrameworkEV.png"
+    alt="PV"
+    style="display:block; width:60%; height:auto; margin:1rem 0;"
+    />
+  <img
+    src="/images/PaperFig/EVLoad.png"
+    alt="PV"
+    style="display:block; width:60%; height:auto; margin:1rem 0;"
+    />
 
 <!-- <br>这是我的[个人简历]() -->
 **联系方式 Contact information**
