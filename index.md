@@ -9,35 +9,36 @@ description: "林锐东 (LIN Ruidong)"
 ### 个人介绍 / Introduction
 
 <figure class="floatpic">
-<img src="/images/LinRuidong2025.jpg" class="floatpic" width="288.4" height="350.2" alt="真的找不到合适的近照了">
+<img src="/images/LinRuidong2025-2.jpg" class="floatpic" width="293.3" height="243.6" alt="真的找不到合适的近照了">
 </figure>
-  <!-- <img src="/blogs/web.assets/LinRuidong.jpg" style="width: 300px; height: 400px;" alt="图片描述"> -->
 
 
-<br>我是林锐东LIN Ruidong
+**林锐东 LIN Ruidong**
+- **硕士（在读）**：电机电子工程，香港大学
+- **Master (Current)**: *Master of Science in Electronic and Electrical Engineering, HKU/The University of Hong Kong, HK, China*
+  - GPA:3.75/4
+- **本科**：电气工程及其自动化，中国矿业大学（北京）
+- **Bachelor**: *Electrical Engineering and Automation, China University of Mining&Technology, Beijing，China*
+  - GPA:87.86/100
+- **Language Level**：IELTS 6.5
 
-<br>本科就读于**中国矿业大学（北京）**本科专业是**电气工程及其自动化**本科课程加权均分**87.86/100**
-目前就读于HKU Master of Science in Electronic and Electrical Engineering
+**技能**： *Python including Pytorch / Matlab including CVX, Gurobi, Matpower*
+**Skills**: *Python including Pytorch / Matlab including CVX, Gurobi, Matpower*
 
-<br>英语水平**CET-6:519分**
-**IELTS:6.5分（2024年3月成绩）** 
-
-<br>技能: **掌握Python,具备利用Pytorch构建复杂深度学习算法的能力**，掌握Matlab并具备利用CVX构建复杂优化模型的能力
-
-<br>**在全国大学生智能汽车竞赛、全国大学生节能减排社会实践与科技竞赛等各类专业竞赛中获国家级最高级奖项5项（4项为第一完成人）****国家级二等奖4项****国家级三等奖2项**
+**研究方向 / Research Interests** 
+- **智慧能源 / *AI in Energy***
+- **电力市场 / *Electricity Market***
+- **光伏功率/负荷预测 / *Photovoltaic Power/Load Forecasting***
+- **需求响应 / *Demand Response Management***
 
 <!-- <br>这是我的[个人简历]() -->
 
-### 研究兴趣 Research Interests 
-- **需求响应 (Demand Response Management)**
-- **电力市场 (Electricity Market)**
-- **智慧能源 (AI4Energy)**
-- **光伏功率/负荷预测 (Photovoltaic Power/Load Forecasting)**
+
 
 ### 联系方式 Contact information
 
+<br>Mail: linrd@connect.hku.hk
 <br>Gmail: ruidong.david.lin@gmail.com
-<br>
-<br>Wechat: 13313977788
-<br>TEL: 13313977788
-
+<br>Wechat ID: LINRDEE
+<!-- 
+<br>**在全国大学生智能汽车竞赛、全国大学生节能减排社会实践与科技竞赛等各类专业竞赛中获国家级最高级奖项5项（4项为第一完成人）****国家级二等奖4项****国家级三等奖2项** -->
