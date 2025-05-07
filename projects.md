@@ -6,14 +6,24 @@ title: Projects
 
 ### **Research Projects**
 
-- Research Cooperated with Prof. Kangping Li@SJTU 《Meteorological-implicit Graph Learning-based Distributed PV Data Cleaning Framework》 (Submitted)
-    - Distributed PV installations suffer serious data degradation and lack of site‑specific meteorological references which is usually necessary for PV data cleaning. We propose MiGL, a meteorological‑implicit graph‑learning framework that jointly captures spatial and temporal dependencies via a data-driven learned adjacency matrix—eliminating explicit priors—and validate its superior cleaning performance on real data from 69 PV sites.
+- Research 《Online Transfer Learning for Load Forecasting under the Lack of Historical Data》
 
-<img
-  src="/images/PaperFig/GCN.png"
-  alt="GCN"
-  style="display:block; width:100%; height:auto; margin:1rem auto;"
-/>
+  With the liberalization of the electricity market, it has become increasingly common for residential customers to switch retail electricity providers in pursuit of more favorable tariffs. Due to privacy‐protection regulations and other constraints, these retailers are often faced with a lack of historical load data for newly contracted customers. Considering such cases, an online transfer learning-based load forecasting method is proposed in this paper.
+  <img
+    src="/images/PaperFig/OTL.png"
+    alt="OTL"
+    style="display:block; width:100%; height:auto; margin:1rem auto;"
+    />
+
+
+- Research Cooperated with Prof. Kangping Li@SJTU 《Meteorological-implicit Graph Learning-based Distributed PV Data Cleaning Framework》 (Submitted)
+
+  Distributed PV installations suffer serious data degradation and lack of site‑specific meteorological references which is usually necessary for PV data cleaning. We propose MiGL, a meteorological‑implicit graph‑learning framework that jointly captures spatial and temporal dependencies via a data-driven learned adjacency matrix—eliminating explicit priors—and validate its superior cleaning performance on real data from 69 PV sites.
+  <img
+    src="/images/PaperFig/GCN.png"
+    alt="GCN"
+    style="display:block; width:100%; height:auto; margin:1rem auto;"
+    />
 
 <!-- ![GCN](/images/PaperFig/GCN.png) -->
 
