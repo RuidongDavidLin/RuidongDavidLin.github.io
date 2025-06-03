@@ -23,8 +23,6 @@ description: "林锐东 (LIN Ruidong)"
 - **Language Level**：IELTS 6.5
 - **Skills**: Python including **Pytorch** / Matlab including **CVX, Gurobi**, and Matpower
 - **Public Repository**:
-  
-  
   - [Price-Taker Offering Strategy in Electricity Pay-as-Bid Markets (Python+CVX+Gurobi)](https://github.com/RuidongDavidLin/Price-Taker_Offering_Strategy_in_Electricity_Pay-as-Bid_Markets)
   - [Energy Hub Planning (Matlab+CVX+Gurobi)](https://github.com/RuidongDavidLin/Energy-Hub-Planning)
 
