@@ -23,10 +23,12 @@ description: "林锐东 (LIN Ruidong)"
 - **Language Level**：IELTS 6.5
 - **Skills**: Python including **Pytorch** / Matlab including **CVX, Gurobi**, and Matpower
 - **Public Repository**:
+  - Optimization
   - [Price-Taker Offering Strategy in Electricity Pay-as-Bid Markets (Python+CVX+Gurobi)](https://github.com/RuidongDavidLin/Price-Taker_Offering_Strategy_in_Electricity_Pay-as-Bid_Markets)
-  - [TimesXer for Load Forecasting (Python+PyTorch)](https://github.com/RuidongDavidLin/Load-Forecasting-Open-Source)
   - [Energy Hub Planning (Matlab+CVX+Gurobi)](https://github.com/RuidongDavidLin/Energy-Hub-Planning)
-
+  - Forecasting
+  - [Electricity Price Probabilistic Forecasting Based on DeepAR with Time-embedding](https://github.com/RuidongDavidLin/Elec_DeepAR)
+  - [TimesXer for Load Forecasting (Python+PyTorch)](https://github.com/RuidongDavidLin/Load-Forecasting-Open-Source)
 
 **研究方向 / Research Interests** 
 - **智慧能源 / *AI in Energy***
